@@ -38,6 +38,9 @@ align-items: stretch;
 background-color: black;
 color: white;
 }
+h3{
+    text-align: center;
+}
 .image-div,
 .about-div {
     flex: 1;
